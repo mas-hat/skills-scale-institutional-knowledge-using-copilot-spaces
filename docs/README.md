@@ -10,7 +10,7 @@ OctoAcme manages projects using an **iterative, customer-focused approach** that
 
 **Key workflows** include maintaining a prioritized backlog, conducting regular standups and sprint planning sessions, and using project boards (such as GitHub Projects) to track work through stages from Backlog to Done. Pull requests are kept small (≤400 lines when possible), include clear acceptance criteria, and require automated tests and code reviews before merging. Risk management is integrated throughout, with a dedicated Risk Register that teams review weekly to identify, assess, and mitigate potential blockers and dependencies.
 
-**Defined roles and personas** provide clear accountability: Project Managers coordinate delivery schedules, risks, and communications; Product Managers define outcomes, prioritize the backlog, and measure success metrics; Developers implement features and collaborate on design; and QA/Testing validates quality against acceptance criteria. Each role has specific responsibilities and communication patterns designed to maintain alignment and transparency across the team and stakeholders.
+**Defined roles and personas** provide clear accountability: Project Managers coordinate delivery schedules, risks, and communications; Product Managers define outcomes, prioritize the backlog, and measure success metrics; Developers implement features and collaborate on design; QA Leads design test strategies and ensure product quality; UX/UI Designers create intuitive user experiences; Technical Writers maintain documentation; Release Coordinators orchestrate deployments; and Security Champions embed security best practices throughout development. Each role has specific responsibilities and communication patterns designed to maintain alignment and transparency across the team and stakeholders.
 
 **Communication and quality assurance** are foundational to our process. Teams conduct daily standups, weekly delivery syncs, and monthly stakeholder updates to maintain visibility and address issues promptly. Quality is ensured through comprehensive testing (unit, integration, and end-to-end tests), security scanning in CI, and manual QA for feature acceptance. After each project or significant milestone, retrospectives capture learnings and generate action items, fostering a culture of continuous improvement that adapts our processes based on real experience.
 
@@ -26,6 +26,7 @@ The following guides provide detailed information about specific aspects of our 
 - **[Release & Deployment](octoacme-release-and-deployment.md)** – Deployment procedures, verification, and release announcements
 - **[Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** – Capturing learnings and implementing process improvements
 - **[Roles and Personas](octoacme-roles-and-personas.md)** – Detailed definitions of team roles, responsibilities, and communication patterns
+- **[Role Interaction Matrix](octoacme-role-interaction-matrix.md)** – Visual guide to collaboration patterns, handoffs, and deliverables between roles
 
 ## Getting Started
 
